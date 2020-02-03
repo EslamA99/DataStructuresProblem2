@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552681645 source:d:\fci\2\2\ds\asss\a2\a2_p1_20170010_20170011_20170047\books.cpp
+	"books.h"
+	<bits/stdc++.h>
+
+1552681645 d:\fci\2\2\ds\asss\a2\a2_p1_20170010_20170011_20170047\books.h
+	<iostream>
+	<bits/stdc++.h>
+
